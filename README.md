@@ -1,17 +1,12 @@
 # Rayen Almeida
 
 ## 👋 About Me:
-I am in the first period of Big Data & Analytics and I am looking for an internship opportunity in the data area. I have a degree in Digital Marketing and have 2 years of experience in the area, focusing on social media management, paid traffic management, developing and presenting weekly campaign results reports.
+I am in the first period of Product Design and I am looking for an internship opportunity in the area as an UX/UI Designer. I have a degree in Digital Marketing and have 2 years of experience.
 
 ## 💻 Skills:
-- Python, SQL, Dax;
-- Excel, Power Point and Google Sheets.
-
-## ⚙️ Databases:
-- SQL Server and  MySQL.
-
-## 📊 Data Visualization Tool :
-- Power BI and Looker Studio.
+- Figma, Adobe XD
+- Photoshop, Illutrator
+- Miro
 
 ## 🔄 Version Control:
 - Git (GitHub).
@@ -19,14 +14,8 @@ I am in the first period of Big Data & Analytics and I am looking for an interns
 ## 📋 Project Management Tools:
 - Jira and Trello.
 
-## 🎲 Analysis and Communication:
-- Definition of KPIs and Indicators;
-- Exploratory analyses;
-- Descriptive analyses;
-- Storytelling.
-
 ## 🌐 Let's connect
-- Linkedin: https://www.linkedin.com/in/rayen-almeida/
+- Linkedin: www.linkedin.com/in/rayen-p-almeida
 
 
 
