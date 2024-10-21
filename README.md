@@ -1,12 +1,14 @@
 # Rayen Almeida
 
 ## 👋 About Me:
-I am in the first period of Product Design and I am looking for an internship opportunity in the area as an UX/UI Designer. I have a degree in Digital Marketing and have 2 years of experience.
+I have a degree in Digital Marketing, with a focus on social media management, campaign management with a focus on Adsense and E-mail Marketing. I am currently pursuing an MBA in Business Analytics, focusing on specializing in Data Analysis, using information to understand business in greater depth and the best way to engage the target audience.
 
 ## 💻 Skills:
-- Figma, Adobe XD
-- Photoshop, Illutrator
-- Miro
+- Power BI
+- Excel
+- Looker Studio
+- SQL
+- Google Analytics
 
 ## 🔄 Version Control:
 - Git (GitHub).
@@ -15,7 +17,7 @@ I am in the first period of Product Design and I am looking for an internship op
 - Jira and Trello.
 
 ## 🌐 Let's connect
-- Linkedin: www.linkedin.com/in/rayen-p-almeida
+- Linkedin: https://www.linkedin.com/in/rayen-almeida-077961333/
 
 
 
